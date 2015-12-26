@@ -1,0 +1,8 @@
+4843 frames 74.474 seconds 65.03 fps (15.38 ms/f) 6.535 fps variability
+-dxlevel 81 
+
+4843 frames 89.088 seconds 54.36 fps (18.40 ms/f) 5.287 fps variability
+-default
+
+4843 frames 85.870 seconds 56.40 fps (17.73 ms/f) 5.670 fps variability
+-dxlevel 90
