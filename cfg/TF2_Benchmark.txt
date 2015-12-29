@@ -6,3 +6,9 @@
 
 4843 frames 85.870 seconds 56.40 fps (17.73 ms/f) 5.670 fps variability
 -dxlevel 90
+
+4843 frames 67.183 seconds 72.09 fps (13.87 ms/f) 9.180 fps variability
+Danpixel FPS Compilation, mostly, + my config
+
+4843 frames 62.433 seconds 77.57 fps (12.89 ms/f) 9.835 fps variability
+Same as previous except I updated cfg with comiglia's
