@@ -12,3 +12,16 @@ Danpixel FPS Compilation, mostly, + my config
 
 4843 frames 62.433 seconds 77.57 fps (12.89 ms/f) 9.835 fps variability
 Same as previous except I updated cfg with comiglia's
+
+
+4843 frames 59.866 seconds 80.90 fps (12.36 ms/f) 7.827 fps variability
+With chrome with play music web page
+
+4843 frames 62.335 seconds 77.69 fps (12.87 ms/f) 7.625 fps variability
+Same but with chrome and Play music desktop app open
+
+4843 frames 60.173 seconds 80.49 fps (12.42 ms/f) 7.778 fps variability
+With miniplayer
+
+4843 frames 59.584 seconds 81.28 fps (12.30 ms/f) 7.865 fps variability
+With both closed
