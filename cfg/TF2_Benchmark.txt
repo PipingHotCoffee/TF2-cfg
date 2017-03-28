@@ -1,5 +1,7 @@
+// Using benchmark2
+
 4843 frames 74.474 seconds 65.03 fps (15.38 ms/f) 6.535 fps variability
--dxlevel 81 
+-dxlevel 81
 
 4843 frames 89.088 seconds 54.36 fps (18.40 ms/f) 5.287 fps variability
 -default
@@ -13,6 +15,7 @@ Danpixel FPS Compilation, mostly, + my config
 4843 frames 62.433 seconds 77.57 fps (12.89 ms/f) 9.835 fps variability
 Same as previous except I updated cfg with comiglia's
 
+//////
 
 4843 frames 59.866 seconds 80.90 fps (12.36 ms/f) 7.827 fps variability
 With chrome with play music web page
@@ -25,3 +28,5 @@ With miniplayer
 
 4843 frames 59.584 seconds 81.28 fps (12.30 ms/f) 7.865 fps variability
 With both closed
+
+// New Computer
